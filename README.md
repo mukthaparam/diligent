@@ -151,7 +151,7 @@ JARVIS Core Mind is a sophisticated AI assistant application that implements a m
 ### Step 1: Clone the Repository
 
 ```bash
-git clone <YOUR_GIT_URL>
+git clone (https://github.com/mukthaparam/diligent.git)
 cd jarvis-core-mind-main
 ```
 
