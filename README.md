@@ -1,4 +1,4 @@
-# JARVIS Core Mind
+# JARVIS-Core Mind
 
 <div align="center">
 
