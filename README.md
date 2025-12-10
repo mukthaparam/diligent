@@ -191,6 +191,16 @@ npm run dev
 
 The application will be available at `http://localhost:8080`
 
+## 📸 Screenshots
+
+<p>
+  <img src="https://raw.githubusercontent.com/mukthaparam/diligent/main/1.jpeg" width="45%" />
+  <img src="https://raw.githubusercontent.com/mukthaparam/diligent/main/2.jpeg" width="45%" />
+</p>
+
+[Final.webm](https://github.com/user-attachments/assets/7b41f84d-b35e-44a4-9353-90db1027a3c7)
+
+
 ## ⚙️ Configuration
 
 ### Environment Variables
