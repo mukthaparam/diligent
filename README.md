@@ -198,7 +198,12 @@ The application will be available at `http://localhost:8080`
   <img src="https://raw.githubusercontent.com/mukthaparam/diligent/main/2.jpeg" width="45%" />
 </p>
 
-[Final.webm](https://github.com/user-attachments/assets/7b41f84d-b35e-44a4-9353-90db1027a3c7)
+
+
+
+https://github.com/user-attachments/assets/17876c89-0dfc-4c97-b87e-db3f253f8792
+
+
 
 
 ## ⚙️ Configuration
